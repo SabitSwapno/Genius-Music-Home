@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Full Song Composition",
+        "details": "We will compose your song just like you wanted to be.",
+        "charge": "Per song 10000",
+        "image": "https://blog.global.fujitsu.com/fgb/wp-content/uploads/sites/3/2021/01/Zz0zNWU5ODJmMGUyMDUxMWVhYjMyYzBhYzcxZWQyN-scaled.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Voice take",
+        "details": "We have the latest condencer to catch the voice take for a song.",
+        "charge": "Per song 1000",
+        "image": "https://cdn.pixabay.com/photo/2015/12/03/09/33/microphone-1074362_960_720.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Keyboard take",
+        "details": "We have the latest keyborads to catch the chords for a song.",
+        "charge": "Per song 1000",
+        "image": "https://static.toiimg.com/thumb/msid-80482252,width-1200,height-900,resizemode-4/.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Guitar take",
+        "details": "We have the latest guitar tones to catch the chords for a song.",
+        "charge": "Per song 1000",
+        "image": "https://thumbs.dreamstime.com/b/wooden-acoustic-guitar-tree-music-concept-photo-48913354.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ukelele",
+        "details": "We have the latest ukelele tones to catch the chords for a song.",
+        "charge": "Per song 1000",
+        "image": "https://media.istockphoto.com/photos/ukulele-on-the-beautiful-summer-beach-picture-id1134901533"
+    },
+    {
+        "id": 6,
+        "name": "Guitar & Ukelele Education",
+        "details": "Our Teacher has the best knowledge we believe so one can really rely on us",
+        "charge": "Per Month 1000",
+        "image": "https://thumbs.dreamstime.com/b/ukulele-guitar-wooden-floor-217466021.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Keyboard Education",
+        "details": "Our Teacher has the best knowledge we believe so one can really rely on us",
+        "charge": "Per Month 1000",
+        "image": "https://static.toiimg.com/thumb/msid-80482252,width-1200,height-900,resizemode-4/.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Musical Theory Education",
+        "details": "Our Teacher has the best knowledge we believe so one can really rely on us",
+        "charge": "Per Month 1000",
+        "image": "https://mramusicplace.files.wordpress.com/2014/03/music-notes-background.jpg"
+    }
+]

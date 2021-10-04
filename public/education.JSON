@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Guitar",
+        "description": "The only way to get truly amazing on guitar is to learn other people's styles and songs. Period. Don't be afraid to explore your own style in time.",
+        "image": "https://thumbs.dreamstime.com/b/guitar-strings-classical-wooden-close-up-46868659.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ukelele",
+        "description": "The ukulele is a portable instrument with a small guitar-like body. It consists of a short neck, a main body, four strings and tuning keys, a bridge, a fretboard, and a sound hole. There are a variety of different types of ukuleles including the soprano, concert, tenor, and baritone.",
+        "image": "https://cdn.pixabay.com/photo/2017/01/18/08/58/ukulele-1989207__340.png"
+    },
+    {
+        "id": 3,
+        "name": "Keyboard",
+        "description": "A musical keyboard is the set of adjacent depressible levers or keys on a musical instrument. Keyboards typically contain keys for playing the twelve notes of the Western musical scale, with a combination of larger, longer keys and smaller, shorter keys that repeats at the interval of an octave.",
+        "image": "https://static.toiimg.com/thumb/msid-80482252,width-1200,height-900,resizemode-4/.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Musical theories",
+        "description": "The answer can be found by turning to music theory, the study of the concepts and compositional methods involved in the creation of music. ... Music theory examines musical qualities such as timbre, tone, pitch, and texture, as well as compositional elements such as rhythm, dynamics, tempo, and much more.",
+        "image": "https://mramusicplace.files.wordpress.com/2014/03/music-notes-background.jpg"
+    }
+]

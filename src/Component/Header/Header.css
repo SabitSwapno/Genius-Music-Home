@@ -1,0 +1,35 @@
+.header-design {
+    background-image: linear-gradient(darkcyan, rgb(36, 65, 65));
+    padding-bottom: 30px;
+}
+.link-styles {
+    text-decoration: none;
+    font-size: 25px;
+    margin-top: 10px;
+    color: white;
+    margin-right: 5px;
+    background-color: rgba(64, 224, 208, 0.397);
+    border-radius: 5px;
+    padding: 3px;
+}
+.nav-design {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.link-styles:hover {
+    background-color: whitesmoke;
+    color: black;
+}
+.text-color {
+    color: white;
+}
+.image-sizing img {
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+pre {
+    font-size: 50px;
+    color: white;
+    font-weight: 600;
+}

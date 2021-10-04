@@ -1,0 +1,17 @@
+.error-bg {
+    background-color: darkcyan;
+    padding: 30px;
+}
+.text-ct {
+    color: antiquewhite;
+    font-size: 60px;
+}
+.error-bg img {
+    width: 50%;
+    height: 400px;
+    padding-bottom: 10px;
+}
+.onMouse:hover {
+    background-color: wheat;
+    color: black;
+}

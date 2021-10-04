@@ -1,0 +1,6 @@
+.stylish {
+    background-color: wheat;
+}
+.stylish:hover {
+    background-color: cadetblue;
+}
